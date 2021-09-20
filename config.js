@@ -46,15 +46,15 @@ const CONFIG = {
     },
     {
       id: '2',
-      name: 'Mail',
+      name: 'G-Mail',
       icon: 'mail',
-      link: 'https://mail.protonmail.com/',
+      link: 'https://mail.google.com/mail/',
     },
     {
       id: '3',
-      name: 'Todoist',
-      icon: 'trello',
-      link: 'https://calendar.google.com/calendar/r',
+      name: 'Reddit',
+      icon: 'reddit',
+      link: 'https://www.reddit.com/',
     },
     {
       id: '4',
@@ -69,10 +69,10 @@ const CONFIG = {
       link: 'https://reddit.com',
     },
     {
-      id: '6',
-      name: 'Odysee',
+      id: '1',
+      name: 'Youtube',
       icon: 'youtube',
-      link: 'https://odysee.com/',
+      link: 'https://www.youtube.com/',
     },
   ],
 
@@ -81,18 +81,18 @@ const CONFIG = {
   // ┴─┘┴└─┘ ┴ └─┘
 
   //Icons
-  firstListIcon: 'music',
+  firstListIcon: 'home',
   secondListIcon: 'coffee',
 
   // Links
   lists: {
     firstList: [
       {
-        name: 'Inspirational',
+        name: 'PoliBa 'str.italics("(esse3)"),
         link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
       },
       {
-        name: 'Classic',
+        name: 'Esse3',
         link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
       },
       {
