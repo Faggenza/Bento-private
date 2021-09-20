@@ -28,7 +28,7 @@ const CONFIG = {
   weatherUnit: 'C', // 'F', 'C'
   language: 'en', // More languages in https://openweathermap.org/current#multi
 
-  trackLocation: true, // If false or an error occurs, the app will use the lat/lon below
+  trackLocation: false, // If false or an error occurs, the app will use the lat/lon below
   defaultLatitude: '37.775',
   defaultLongitude: '-122.419',
 
@@ -40,9 +40,9 @@ const CONFIG = {
   cards: [
     {
       id: '1',
-      name: 'Github',
-      icon: 'github',
-      link: 'https://github.com/',
+      name: 'Youtube',
+      icon: 'youtube',
+      link: 'https://youtube.com/',
     },
     {
       id: '2',
@@ -53,7 +53,7 @@ const CONFIG = {
     {
       id: '3',
       name: 'Reddit',
-      icon: 'reddit',
+      icon: 'hash',
       link: 'https://www.reddit.com/',
     },
     {
@@ -88,20 +88,20 @@ const CONFIG = {
   lists: {
     firstList: [
       {
+        name: 'PoliBa (esse3)',
+        link: 'https://poliba.esse3.cineca.it/auth/studente/HomePageStudente.do',
+      },
+      {
+        name: 'Office 365',
+        link: 'https://www.office.com/?auth=2',
+      },
+      {
+        name: 'Outlook (Uni)',
+        link: 'https://outlook.office.com/mail/inbox',
+      },
+      {
         name: 'PoliBa',
-        link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
-      },
-      {
-        name: 'Esse3',
-        link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
-      },
-      {
-        name: 'Oldies',
-        link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
-      },
-      {
-        name: 'Rock',
-        link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+        link: 'https://www.poliba.it/',
       },
     ],
     secondList: [
