@@ -10,7 +10,7 @@ const printCards = () => {
     let item = `
         <a
           href="${card.link}"
-          target="${CONFIG.openInNewTab ? '_blank' : ''}"
+          target="${CONFIG.open ? '_blank' : ''}"
           class="buttonLink__link card buttonLink__link-${card.id}"
         >
           <i class="buttonLink__icon" data-feather="${card.icon}"></i>
