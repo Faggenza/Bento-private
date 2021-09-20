@@ -88,7 +88,7 @@ const CONFIG = {
   lists: {
     firstList: [
       {
-        name: 'PoliBa 'str.italics("(esse3)"),
+        name: 'PoliBa',
         link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
       },
       {
