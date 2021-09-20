@@ -11,7 +11,7 @@ const printFirstList = () => {
     // List item
     let item = `
         <a
-        target="${CONFIG.openInNewTab ? '_blank' : ''}"
+        target="${CONFIG.open ? '_blank' : ''}"
         href="${link.link}"
         class="list__link"
         >${link.name}</a
