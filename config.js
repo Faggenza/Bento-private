@@ -89,7 +89,7 @@ const CONFIG = {
     firstList: [
       {
         var worldUni= '(esse3)'
-        name: 'PoliBa 'uni.italics(),
+        name: 'PoliBa 'worldUni.italics(),
         link: 'https://poliba.esse3.cineca.it/auth/studente/HomePageStudente.do',
       },
       {
