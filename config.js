@@ -39,7 +39,7 @@ const CONFIG = {
   // Links
   cards: [
     {
-      id: '6',
+      id: '1',
       name: 'Github',
       icon: 'github',
       link: 'https://github.com/',
@@ -69,7 +69,7 @@ const CONFIG = {
       link: 'https://reddit.com',
     },
     {
-      id: '1',
+      id: '6',
       name: 'Youtube',
       icon: 'youtube',
       link: 'https://www.youtube.com/',
