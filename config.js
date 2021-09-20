@@ -106,8 +106,8 @@ const CONFIG = {
     ],
     secondList: [
       {
-        name: 'Linkedin',
-        link: 'https://linkedin.com/',
+        name: 'Usage',
+        link: 'https://github.com/migueravila/SimpleFox#-usage',
       },
       {
         name: 'Figma',
