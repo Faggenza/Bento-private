@@ -88,7 +88,7 @@ const CONFIG = {
   lists: {
     firstList: [
       {
-        name: 'PoliBa (esse3)',
+        name: 'PoliBa 'string.italics('(esse3)'),
         link: 'https://poliba.esse3.cineca.it/auth/studente/HomePageStudente.do',
       },
       {
