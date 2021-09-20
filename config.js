@@ -23,14 +23,14 @@ const CONFIG = {
   greetingNight: 'Vai a Dormire!',
 
   // Weather
-  weatherKey: 'InsertYourAPIKeyHere123456',
+  weatherKey: 'a31ac7884a367272892e6061ccf244ea',
   weatherIcons: 'OneDark', // 'Nord', 'Dark', 'White'
   weatherUnit: 'C', // 'F', 'C'
   language: 'en', // More languages in https://openweathermap.org/current#multi
 
   trackLocation: false, // If false or an error occurs, the app will use the lat/lon below
-  defaultLatitude: '37.775',
-  defaultLongitude: '-122.419',
+  defaultLatitude: '41.687310',
+  defaultLongitude: '15.292660',
 
   // ┌─┐┌─┐┬─┐┌┬┐┌─┐
   // │  ├─┤├┬┘ ││└─┐
@@ -88,8 +88,7 @@ const CONFIG = {
   lists: {
     firstList: [
       {
-        var worldUni= '(esse3)'
-        name: 'PoliBa 'worldUni.italics(),
+        name: 'PoliBa (esse3)',
         link: 'https://poliba.esse3.cineca.it/auth/studente/HomePageStudente.do',
       },
       {
