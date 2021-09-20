@@ -26,7 +26,7 @@ const CONFIG = {
   weatherKey: 'a31ac7884a367272892e6061ccf244ea',
   weatherIcons: 'OneDark', // 'Nord', 'Dark', 'White'
   weatherUnit: 'C', // 'F', 'C'
-  language: 'en', // More languages in https://openweathermap.org/current#multi
+  language: 'it', // More languages in https://openweathermap.org/current#multi
 
   trackLocation: false, // If false or an error occurs, the app will use the lat/lon below
   defaultLatitude: '41.687310',
@@ -52,27 +52,27 @@ const CONFIG = {
     },
     {
       id: '3',
-      name: 'Reddit',
-      icon: 'hash',
-      link: 'https://www.reddit.com/',
+      name: 'Amazon',
+      icon: 'shopping-cart',
+      link: 'https://www.amazon.it/',
     },
     {
       id: '4',
-      name: 'Calendar',
-      icon: 'calendar',
-      link: 'https://calendar.google.com/calendar/r',
+      name: 'CoinmarketCap',
+      icon: 'trending-up',
+      link: 'https://coinmarketcap.com/',
     },
     {
       id: '5',
       name: 'Reddit',
       icon: 'bookmark',
-      link: 'https://reddit.com',
+      link: 'https://reddit.com/',
     },
     {
       id: '6',
-      name: 'Youtube',
-      icon: 'youtube',
-      link: 'https://www.youtube.com/',
+      name: 'Telegram',
+      icon: 'send',
+      link: 'https://web.telegram.org/',
     },
   ],
 
