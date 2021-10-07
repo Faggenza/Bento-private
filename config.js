@@ -14,7 +14,7 @@ const CONFIG = {
   name: 'Faggenza',
   imageBackground: false,
   openInNewTab: true,
-  twelveHourFormat: false,
+  twelveHourFormat: true,
 
   // Greetings
   greetingMorning: 'Buongiorno!',
