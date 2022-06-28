@@ -29,8 +29,12 @@ const CONFIG = {
   language: 'it', // More languages in https://openweathermap.org/current#multi
 
   trackLocation: false, // If false or an error occurs, the app will use the lat/lon below
+  //Bari
   defaultLatitude: '41.687310',
-  defaultLongitude: '15.292660',
+  defaultLongitude: '16.872110',
+  //Torremaggiore
+  //defaultLatitude: '15.292660',
+  //defaultLongitude: '15.292660',
 
   // ┌─┐┌─┐┬─┐┌┬┐┌─┐
   // │  ├─┤├┬┘ ││└─┐
